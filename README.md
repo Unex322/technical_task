@@ -22,3 +22,7 @@ $ mkdir uploads
 Run your server on your localhost
 
 	npm start
+	
+Go to
+
+	http://localhost:3000/
