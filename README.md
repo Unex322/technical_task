@@ -14,6 +14,7 @@ $ cd technical_task
 $ npm install 
 $ npm install --save ng2 file upload multer file saver
 $ npm run build
+$ mkdir uploads
 
 ```
 ---
